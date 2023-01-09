@@ -1,0 +1,45 @@
+body{
+    background-image: url("https://static.vecteezy.com/system/resources/previews/001/984/892/original/banner-design-geometric-hexagon-colorful-overlapping-with-background-free-vector.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+a :hover{color: blueviolet;}
+h2{
+    color: rgba(242, 4, 4, 0.619);
+}
+div{
+    display: inline-block;
+    height: 50px; width: 300px;
+    padding: 40px;
+    margin: 40px;
+}
+ .s1{ 
+    font-size: 30px;
+
+}
+#projects {
+    margin-top: 200px;
+    border: solid;
+    width: 50%;
+    font-size: 30px;
+}
+
+#resume{
+    width: 50%;
+    margin-top: 200px;
+    border: solid;
+    font-size: 30px;
+}
+#contact{
+    border-radius: 10px;
+    border-color: black;
+    padding-left: 50px;
+    padding-right: 500px;
+    margin-top: 300px;
+    margin-right: 600px;
+    font-size: 30px;
+    border: solid;
+    margin-bottom: 200px;
+}
+form table{ background-color: rgb(124, 15, 151);}
